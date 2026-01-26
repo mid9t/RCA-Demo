@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+
+# Data/artifacts
+artifacts/
+*.parquet
+*.pkl
+
+# Local config
+config.json
+
+# Local prompts
+prompt.txt
