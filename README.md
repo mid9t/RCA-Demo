@@ -3,6 +3,7 @@
 This repository is a portfolio-style mock of an Automated Root Cause Analysis (RCA) system I built during a previous internship. It is designed to highlight technical skills, system design thinking, and a pragmatic, interpretability-first ML workflow.
 
 ## Project overview
+![Poster](CDSSDataDiscoverySymposiumPoster.png)
 - **Goal:** Explain sales anomalies at SKU-week grain with evidence, not just a label.
 - **Input:** Anomaly signal from forecast vs actual sales at SKU-week.
 - **Output:** Attribution of anomaly cause at minimum supply-driven vs demand-driven, plus evidence and confidence.
